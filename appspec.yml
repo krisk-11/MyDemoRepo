@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
+  - source: krisk-11/MyDemoRepo
     destination: /var/www/html/
 hooks:
   BeforeInstall:
